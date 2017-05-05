@@ -1,0 +1,23 @@
+{
+  "name": "basic-front-end",
+  "version": "1.0.0",
+  "description": "A basic front-end development template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/usman-tahir/basic-front-end.git"
+  },
+  "author": "usman-tahir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/usman-tahir/basic-front-end/issues"
+  },
+  "homepage": "https://github.com/usman-tahir/basic-front-end#readme",
+  "devDependencies": {
+    "browser-sync": "^2.18.8",
+    "gulp": "^3.9.1"
+  }
+}
